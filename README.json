@@ -28,7 +28,7 @@
             "last_commit": "2026-08-03T13:09:04Z",
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1719
+            "stars": 1720
           }
         },
         {
@@ -524,7 +524,7 @@
             "last_commit": "2026-08-10T17:01:50Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72303
+            "stars": 72317
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:43.466Z",
+    "last_updated": "2026-08-13T15:07:47.996Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
