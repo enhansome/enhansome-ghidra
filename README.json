@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ret-sync",
+          "description": "ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-15T09:12:10Z",
+            "owner": "bootleg",
+            "repo": "ret-sync",
+            "stars": 2370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OOAnalyzer Plugin for Ghidra",
+          "description": "OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T13:09:04Z",
+            "owner": "cmu-sei",
+            "repo": "pharos",
+            "stars": 1719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra_scripts by ghidraninja",
+          "description": "Scripts for the Ghidra software reverse engineering suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "YARA",
+            "last_commit": "2020-10-07T09:38:51Z",
+            "owner": "ghidraninja",
+            "repo": "ghidra_scripts",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pwndra",
+          "description": "A collection of pwn/CTF related utilities for Ghidra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-10T08:40:52Z",
+            "owner": "0xb0bb",
+            "repo": "pwndra",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JNI Helper",
+          "description": "Find JNI function signatures in APK and apply to Ghidra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-02-24T09:49:31Z",
+            "owner": "evilpan",
+            "repo": "jni_helper",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FindCrypt-Ghidra",
+          "description": "IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-25T03:37:00Z",
+            "owner": "d3v1l401",
+            "repo": "FindCrypt-Ghidra",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDAObjcTypes",
+          "description": "A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-05-03T06:35:09Z",
+            "owner": "PoomSmart",
+            "repo": "IDAObjcTypes",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "efiSeek for Ghidra",
+          "description": "The analyzer automates the process of researching EFI files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-02T21:49:20Z",
+            "owner": "DSecurity",
+            "repo": "efiSeek",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra_bridge",
+          "description": "Python 3 bridge to Ghidra's Python scripting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-30T03:49:10Z",
+            "owner": "justfoxing",
+            "repo": "ghidra_bridge",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GhidraPAL",
+          "description": "Ghidra Program Analysis Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-28T15:48:21Z",
+            "owner": "RolfRolles",
+            "repo": "GhidraPAL",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotools",
+          "description": "Plugin for Ghidra to assist reversing Golang binaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-12T08:42:52Z",
+            "owner": "felberj",
+            "repo": "gotools",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daenerys",
+          "description": "A framework for interoperability between IDA and Ghidra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-01T14:14:16Z",
+            "owner": "binary-wizards",
+            "repo": "daenerys-sre",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra-data",
+          "description": "Supporting Data Archives for Ghidra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-30T13:49:28Z",
+            "owner": "0x6d696368",
+            "repo": "ghidra-data",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra scripts by raptor/0xdea",
+          "description": "A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-02T21:43:15Z",
+            "owner": "0xdea",
+            "repo": "ghidra-scripts",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra-fidb-repo",
+          "description": "Ghidra Function ID dataset repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-30T12:16:35Z",
+            "owner": "threatrack",
+            "repo": "ghidra-fidb-repo",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra_scripts by 0x6d696368",
+          "description": "Ghidra scripts such as a RC4 decrypter, Yara search, stack string decoder, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-22T20:00:20Z",
+            "owner": "0x6d696368",
+            "repo": "ghidra_scripts",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyGhidra",
+          "description": "Make your Ghidra Lazy!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-27T04:50:17Z",
+            "owner": "AllsafeCyberSecurity",
+            "repo": "LazyGhidra",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghidra-evm",
+          "description": "Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-22T13:00:00Z",
+            "owner": "adelapie",
+            "repo": "ghidra-evm",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin Jupyter Kernel",
+          "description": "Embeds the Kotlin kernel into the CodeBrowser or other tools, for a full-fledged Kotlin REPL or Jupyter Notebook alongside a GUI session, including variables, autocompletions based on static type inference and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-15T17:12:06Z",
+            "owner": "GhidraJupyter",
+            "repo": "ghidra-jupyter-kotlin",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pcode-emulator",
+          "description": "A PCode Emulator for Ghidra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-07T19:47:15Z",
+            "owner": "kc0bfv",
+            "repo": "pcode-emulator",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra_script by Allsafe",
+          "description": "Ghidra scripts for malware analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T06:31:39Z",
+            "owner": "AllsafeCyberSecurity",
+            "repo": "ghidra_scripts",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color the Executed Instructions",
+          "description": "Color the Executed Instructions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-26T11:54:26Z",
+            "owner": "alephsecurity",
+            "repo": "general-research-tools",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplaceFuncNameFromLog",
+          "description": "ReplaceFuncNameFromLog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-02-26T11:54:26Z",
+            "owner": "alephsecurity",
+            "repo": "general-research-tools",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghidra Patch Diff Correlator Project",
+          "description": "This project tries to provide additional Ghidra Version Tracking Correlators suitable for patch diffing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-27T13:04:40Z",
+            "owner": "threatrack",
+            "repo": "ghidra-patchdiff-correlator",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vtgrepghidra",
+          "description": "VT-GHIDRA Plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-02-18T19:03:33Z",
+            "owner": "Sentinel-One",
+            "repo": "VTgrepGHIDRA",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra_scripts by Dump-GUY",
+          "description": "tiny_tracer_tag_annotate and CAPA_Importer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T17:16:51Z",
+            "owner": "Dump-GUY",
+            "repo": "ghidra_scripts",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intezer Analyze Ghidra Plugin",
+          "description": "Ghidra plugin for Intezer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-23T13:02:18Z",
+            "owner": "intezer",
+            "repo": "analyze-community-ghidra-plugin",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CapaExplorer",
+          "description": "Capa analysis importer for Ghidra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-02T07:34:42Z",
+            "owner": "reb311ion",
+            "repo": "CapaExplorer",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidraquark",
+          "description": "A Ghidra plugin that provides powerful overview for Android Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-09T02:58:46Z",
+            "owner": "ev-flow",
+            "repo": "ghidraquark",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "headless_scripts",
+          "description": "Headless Scripts for Ghidra's Headless Analyzer written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-21T10:04:29Z",
+            "owner": "AllsafeCyberSecurity",
+            "repo": "headless_scripts",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra-jython-kernel",
+          "description": "Jupyter Kernel for Ghidra's Jython",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-13T22:58:08Z",
+            "owner": "AllsafeCyberSecurity",
+            "repo": "ghidra-jython-kernel",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-findcrypt-ghidra",
+          "description": "FindCrypt for Ghidra written in Python. All constants are referenced from findcrypt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-20T08:26:23Z",
+            "owner": "AllsafeCyberSecurity",
+            "repo": "py-findcrypt-ghidra",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VTgrepGHIDRA",
+          "description": "vtgrep plugin for Ghidra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-04-11T15:45:10Z",
+            "owner": "kasif-dekel",
+            "repo": "random-stuff",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipyghidra",
+          "description": "IPython Extension that extends for an improved interactive experience in the IPython console",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-06T12:53:08Z",
+            "owner": "fmagin",
+            "repo": "ipyghidra",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GhidrAI",
+          "description": "A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T21:58:43Z",
+            "owner": "John-A0",
+            "repo": "GhidrAI",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghidra-printf-inliner",
+          "description": "A Ghidra plugin that automatically inlines printf/println format strings in decompiled code, mainly optimized for Go binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-21T12:11:35Z",
+            "owner": "kajaaz",
+            "repo": "ghidra-printf-inliner",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Ghidra Scripts/Plugins/Extension"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ghidra/GhidraDocs/GhidraClass/",
+          "description": "Official material by National Security Agency",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:01:50Z",
+            "owner": "NationalSecurityAgency",
+            "repo": "ghidra",
+            "stars": 72303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INFILTRATE2019",
+          "description": "INFILTRATE 2019 Demo Materials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-03-17T02:37:51Z",
+            "owner": "0xAlexei",
+            "repo": "INFILTRATE2019",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saintcon2019GhidraTalk",
+          "description": "Talk about PCode emulator at Saintcon 2019 by @kc0bfv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-09T21:57:31Z",
+            "owner": "kc0bfv",
+            "repo": "Saintcon2019GhidraTalk",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Materials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "r2ghidra-dec",
+          "description": "Deep ghidra decompiler integration for radare2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-21T10:29:58Z",
+            "owner": "rizinorg",
+            "repo": "rz-ghidra",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghidraaas",
+          "description": "simple web server that exposes Ghidra analysis through REST APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T20:38:05Z",
+            "owner": "Cisco-Talos",
+            "repo": "Ghidraaas",
+            "stars": 227
+          }
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:43.466Z",
+    "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
+    "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
+    "enhanced_repository": "enhansome/enhansome-ghidra",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ghidra with stars"
+  }
+}
