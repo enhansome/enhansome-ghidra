@@ -524,7 +524,7 @@
             "last_commit": "2026-08-13T15:11:45Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72363
+            "stars": 72367
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-06-21T10:29:58Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 966
+            "stars": 967
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:02:08.618Z",
+    "last_updated": "2026-08-15T14:32:30.121Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
