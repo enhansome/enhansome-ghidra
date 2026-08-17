@@ -521,10 +521,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T15:11:45Z",
+            "last_commit": "2026-08-17T08:59:20Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72407
+            "stars": 72437
           }
         },
         {
@@ -569,7 +569,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-21T10:29:58Z",
+            "last_commit": "2026-08-17T11:16:11Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
             "stars": 969
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:32:50.469Z",
+    "last_updated": "2026-08-17T14:37:45.988Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
