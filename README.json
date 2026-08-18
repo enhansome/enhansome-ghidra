@@ -14,7 +14,7 @@
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2371
+            "stars": 2372
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-05-03T06:35:09Z",
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -524,7 +524,7 @@
             "last_commit": "2026-08-17T08:59:20Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72437
+            "stars": 72484
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:37:45.988Z",
+    "last_updated": "2026-08-18T14:44:14.422Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
