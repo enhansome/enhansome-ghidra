@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49377590,
             "language": "C",
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2372
+            "stars": 2373
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37336218,
             "language": "C++",
             "last_commit": "2026-08-03T13:09:04Z",
             "owner": "cmu-sei",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174371514,
             "language": "YARA",
             "last_commit": "2020-10-07T09:38:51Z",
             "owner": "ghidraninja",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233063183,
             "language": "Python",
             "last_commit": "2024-09-10T08:40:52Z",
             "owner": "0xb0bb",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299831769,
             "language": "C++",
             "last_commit": "2025-02-24T09:49:31Z",
             "owner": "evilpan",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178957839,
             "language": "C++",
             "last_commit": "2023-06-25T03:37:00Z",
             "owner": "d3v1l401",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163808386,
             "language": "Objective-C",
             "last_commit": "2026-05-03T06:35:09Z",
             "owner": "PoomSmart",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277093823,
             "language": "Java",
             "last_commit": "2024-06-02T21:49:20Z",
             "owner": "DSecurity",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179169971,
             "language": "Python",
             "last_commit": "2023-01-30T03:49:10Z",
             "owner": "justfoxing",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174642814,
             "language": "Java",
             "last_commit": "2023-06-28T15:48:21Z",
             "owner": "RolfRolles",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179881272,
             "language": "Java",
             "last_commit": "2021-04-12T08:42:52Z",
             "owner": "felberj",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176418514,
             "language": "Python",
             "last_commit": "2019-04-01T14:14:16Z",
             "owner": "binary-wizards",
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181718193,
             "language": null,
             "last_commit": "2020-05-30T13:49:28Z",
             "owner": "0x6d696368",
             "repo": "ghidra-data",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327846631,
             "language": "Java",
             "last_commit": "2026-08-02T21:43:15Z",
             "owner": "0xdea",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210006326,
             "language": null,
             "last_commit": "2020-05-30T12:16:35Z",
             "owner": "threatrack",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180764255,
             "language": "Python",
             "last_commit": "2020-02-22T20:00:20Z",
             "owner": "0x6d696368",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205628404,
             "language": "Python",
             "last_commit": "2020-08-27T04:50:17Z",
             "owner": "AllsafeCyberSecurity",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309414502,
             "language": "Python",
             "last_commit": "2021-11-22T13:00:00Z",
             "owner": "adelapie",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316975247,
             "language": "Java",
             "last_commit": "2026-06-15T17:12:06Z",
             "owner": "GhidraJupyter",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216861388,
             "language": "Python",
             "last_commit": "2021-02-07T19:47:15Z",
             "owner": "kc0bfv",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207281625,
             "language": "Python",
             "last_commit": "2024-01-11T06:31:39Z",
             "owner": "AllsafeCyberSecurity",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230211256,
             "language": "Java",
             "last_commit": "2020-02-26T11:54:26Z",
             "owner": "alephsecurity",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230211256,
             "language": "Java",
             "last_commit": "2020-02-26T11:54:26Z",
             "owner": "alephsecurity",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214256765,
             "language": "Java",
             "last_commit": "2023-10-27T13:04:40Z",
             "owner": "threatrack",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 261395984,
             "language": "Java",
             "last_commit": "2021-02-18T19:03:33Z",
             "owner": "Sentinel-One",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280526350,
             "language": "Python",
             "last_commit": "2023-09-04T17:16:51Z",
             "owner": "Dump-GUY",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274694914,
             "language": "Python",
             "last_commit": "2022-10-23T13:02:18Z",
             "owner": "intezer",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316290840,
             "language": "Python",
             "last_commit": "2020-12-02T07:34:42Z",
             "owner": "reb311ion",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333347876,
             "language": "Java",
             "last_commit": "2021-03-09T02:58:46Z",
             "owner": "ev-flow",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209954843,
             "language": "Python",
             "last_commit": "2019-09-21T10:04:29Z",
             "owner": "AllsafeCyberSecurity",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230583517,
             "language": "Python",
             "last_commit": "2022-04-13T22:58:08Z",
             "owner": "AllsafeCyberSecurity",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263405998,
             "language": "Python",
             "last_commit": "2020-05-20T08:26:23Z",
             "owner": "AllsafeCyberSecurity",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155055583,
             "language": "C",
             "last_commit": "2020-04-11T15:45:10Z",
             "owner": "kasif-dekel",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222681825,
             "language": "Python",
             "last_commit": "2020-05-06T12:53:08Z",
             "owner": "fmagin",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1238160836,
             "language": "Python",
             "last_commit": "2026-05-13T21:58:43Z",
             "owner": "John-A0",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1041284253,
             "language": "Java",
             "last_commit": "2025-08-21T12:11:35Z",
             "owner": "kajaaz",
@@ -511,7 +547,7 @@
       "title": "Ghidra Scripts/Plugins/Extension"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -520,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173228436,
             "language": "Java",
-            "last_commit": "2026-08-17T08:59:20Z",
+            "last_commit": "2026-08-18T16:16:20Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72484
+            "stars": 72517
           }
         },
         {
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181558951,
             "language": "Java",
             "last_commit": "2023-03-17T02:37:51Z",
             "owner": "0xAlexei",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216861055,
             "language": "Python",
             "last_commit": "2020-02-09T21:57:31Z",
             "owner": "kc0bfv",
@@ -559,7 +598,7 @@
       "title": "Materials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -568,11 +607,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196547485,
             "language": "C++",
             "last_commit": "2026-08-17T11:16:11Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 969
+            "stars": 971
           }
         },
         {
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206115839,
             "language": "Python",
             "last_commit": "2023-05-01T20:38:05Z",
             "owner": "Cisco-Talos",
@@ -594,8 +635,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:44:14.422Z",
+    "last_updated": "2026-08-19T12:34:28.986Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
+    "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
     "enhanced_repository_description": null,
