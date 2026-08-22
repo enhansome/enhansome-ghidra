@@ -15,7 +15,7 @@
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2374
+            "stars": 2375
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2021-04-12T08:42:52Z",
             "owner": "felberj",
             "repo": "gotools",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-20T13:07:30Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72618
+            "stars": 72658
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:47:00.179Z",
+    "last_updated": "2026-08-22T14:31:21.553Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
