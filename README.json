@@ -15,7 +15,7 @@
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2376
+            "stars": 2377
           }
         },
         {
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 173228436,
             "language": "Java",
-            "last_commit": "2026-08-20T13:07:30Z",
+            "last_commit": "2026-08-24T08:41:59Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72696
+            "stars": 72739
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:32:55.525Z",
+    "last_updated": "2026-08-24T14:13:18.459Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
