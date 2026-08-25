@@ -15,7 +15,7 @@
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2377
+            "stars": 2378
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-06-25T03:37:00Z",
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 548
+            "stars": 549
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-24T18:27:21Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72765
+            "stars": 72777
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:22.534Z",
+    "last_updated": "2026-08-25T14:56:48.301Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
