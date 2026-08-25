@@ -558,10 +558,10 @@
             "archived": false,
             "id": 173228436,
             "language": "Java",
-            "last_commit": "2026-08-24T08:41:59Z",
+            "last_commit": "2026-08-24T18:27:21Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72741
+            "stars": 72765
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:53:24.148Z",
+    "last_updated": "2026-08-25T06:04:22.534Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
