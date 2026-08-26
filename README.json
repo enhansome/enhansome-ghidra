@@ -30,7 +30,7 @@
             "last_commit": "2026-08-03T13:09:04Z",
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1722
+            "stars": 1723
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-02-24T09:49:31Z",
             "owner": "evilpan",
             "repo": "jni_helper",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -558,10 +558,10 @@
             "archived": false,
             "id": 173228436,
             "language": "Java",
-            "last_commit": "2026-08-24T18:27:21Z",
+            "last_commit": "2026-08-25T16:51:31Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72777
+            "stars": 72834
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-17T11:16:11Z",
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 972
+            "stars": 973
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:56:48.301Z",
+    "last_updated": "2026-08-26T14:55:03.871Z",
     "original_repository": "AllsafeCyberSecurity/awesome-ghidra",
     "original_repository_id": 228118871,
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
