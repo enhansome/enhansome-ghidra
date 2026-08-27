@@ -27,7 +27,7 @@
             "archived": false,
             "id": 37336218,
             "language": "C++",
-            "last_commit": "2026-08-03T13:09:04Z",
+            "last_commit": "2026-08-27T13:56:56Z",
             "owner": "cmu-sei",
             "repo": "pharos",
             "stars": 1723
@@ -561,7 +561,7 @@
             "last_commit": "2026-08-25T16:51:31Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72928
+            "stars": 73023
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:00.058Z",
+    "last_updated": "2026-08-27T23:44:38.937Z",
     "original_repository_info": {
       "archived": false,
       "id": 228118871,
