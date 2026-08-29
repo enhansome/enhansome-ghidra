@@ -210,7 +210,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -869,7 +869,7 @@
             "open_issues": 1921,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 73385,
+            "stars": 73581,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:42.542Z",
+    "last_updated": "2026-08-29T17:40:22.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
