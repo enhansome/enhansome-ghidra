@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.",
+            "homepage": null,
             "id": 49377590,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-15T09:12:10Z",
+            "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2379
+            "stars": 2379,
+            "topics": [
+              "binaryninja",
+              "debugger",
+              "disassembler",
+              "ghidra",
+              "ida-plugin",
+              "ida-pro",
+              "reverse-engineering",
+              "software-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -26,12 +40,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated static analysis tools for binary programs",
+            "homepage": null,
             "id": 37336218,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:56:56Z",
+            "open_issues": 60,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1723
+            "stars": 1723,
+            "topics": [
+              "binary-analysis",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -42,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for the Ghidra software reverse engineering suite.",
+            "homepage": null,
             "id": 174371514,
             "language": "YARA",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-07T09:38:51Z",
+            "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1165
+            "stars": 1165,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -58,12 +85,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of pwn/CTF related utilities for Ghidra",
+            "homepage": null,
             "id": 233063183,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-10T08:40:52Z",
+            "open_issues": 3,
             "owner": "0xb0bb",
             "repo": "pwndra",
-            "stars": 708
+            "stars": 708,
+            "topics": [
+              "ctf",
+              "ctf-tools",
+              "exploitation",
+              "ghidra",
+              "ghidra-scripts",
+              "pwn",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -74,12 +114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find JNI function signatures in APK and apply to reverse-engineering tools.",
+            "homepage": null,
             "id": 299831769,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-02-24T09:49:31Z",
+            "open_issues": 2,
             "owner": "evilpan",
             "repo": "jni_helper",
-            "stars": 676
+            "stars": 676,
+            "topics": [
+              "apk",
+              "binaryninja",
+              "ghidra",
+              "ida",
+              "jni-helper",
+              "radare2"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -90,12 +142,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database",
+            "homepage": "https://d3vsite.org/",
             "id": 178957839,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-25T03:37:00Z",
+            "open_issues": 0,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 549
+            "stars": 549,
+            "topics": [
+              "cryptoanalysis",
+              "cryptography",
+              "cryptography-tools",
+              "ghidra",
+              "plugin",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -106,12 +170,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of types & functions definitions useful for iOS/macOS binaries analysis.",
+            "homepage": null,
             "id": 163808386,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-03T06:35:09Z",
+            "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "analysis",
+              "binaries",
+              "definitions",
+              "functions",
+              "ghidra",
+              "headers",
+              "ida-pro",
+              "objc",
+              "types"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -122,12 +201,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra analyzer for UEFI firmware.",
+            "homepage": null,
             "id": 277093823,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-02T21:49:20Z",
+            "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 404
+            "stars": 404,
+            "topics": [
+              "firmware",
+              "ghidra-plugin",
+              "reverse-engineering",
+              "uefi"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -138,12 +227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python 3 bridge to Ghidra's Python scripting",
+            "homepage": null,
             "id": 179169971,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-30T03:49:10Z",
+            "open_issues": 13,
             "owner": "justfoxing",
             "repo": "ghidra_bridge",
-            "stars": 362
+            "stars": 362,
+            "topics": [
+              "ghidra",
+              "python3",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -154,12 +252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra Program Analysis Library",
+            "homepage": null,
             "id": 174642814,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-06-28T15:48:21Z",
+            "open_issues": 8,
             "owner": "RolfRolles",
             "repo": "GhidraPAL",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -170,12 +273,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Ghidra to assist reversing Golang binaries",
+            "homepage": null,
             "id": 179881272,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-04-12T08:42:52Z",
+            "open_issues": 7,
             "owner": "felberj",
             "repo": "gotools",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "ghidra",
+              "golang",
+              "reverse"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -186,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daenerys: A framework for interoperability between IDA and Ghidra",
+            "homepage": null,
             "id": 176418514,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-01T14:14:16Z",
+            "open_issues": 0,
             "owner": "binary-wizards",
             "repo": "daenerys-sre",
-            "stars": 307
+            "stars": 307,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -202,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supporting Data Archives for Ghidra",
+            "homepage": "https://www.nsa.gov/ghidra",
             "id": 181718193,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2020-05-30T13:49:28Z",
+            "open_issues": 0,
             "owner": "0x6d696368",
             "repo": "ghidra-data",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -218,12 +340,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.",
+            "homepage": "https://ghidra-sre.org",
             "id": 327846631,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-02T21:43:15Z",
+            "open_issues": 3,
             "owner": "0xdea",
             "repo": "ghidra-scripts",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "ghidra",
+              "ghidra-scripts",
+              "reverse-engineering",
+              "vulnerability-research"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -234,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra Function ID dataset repository",
+            "homepage": null,
             "id": 210006326,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-05-30T12:16:35Z",
+            "open_issues": 1,
             "owner": "threatrack",
             "repo": "ghidra-fidb-repo",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -250,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra scripts such as a RC4 decrypter, Yara search, stack string decoder, etc.",
+            "homepage": null,
             "id": 180764255,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-22T20:00:20Z",
+            "open_issues": 0,
             "owner": "0x6d696368",
             "repo": "ghidra_scripts",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -266,12 +408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your Ghidra Lazy!",
+            "homepage": null,
             "id": 205628404,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-08-27T04:50:17Z",
+            "open_issues": 1,
             "owner": "AllsafeCyberSecurity",
             "repo": "LazyGhidra",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "ghidra",
+              "python",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -282,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ghidra EVM Module (ghidra-evm) leverages Ghidra 9.1.2 to disassemble and analyze compiled Ethereum smart contracts. Ghidra-evm was presented at BlackHat Asia 2021.",
+            "homepage": null,
             "id": 309414502,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-11-22T13:00:00Z",
+            "open_issues": 3,
             "owner": "adelapie",
             "repo": "ghidra-evm",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -298,12 +454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 316975247,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-06-15T17:12:06Z",
+            "open_issues": 6,
             "owner": "GhidraJupyter",
             "repo": "ghidra-jupyter-kotlin",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -314,12 +475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PCode Emulator for Ghidra.",
+            "homepage": null,
             "id": 216861388,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-07T19:47:15Z",
+            "open_issues": 0,
             "owner": "kc0bfv",
             "repo": "pcode-emulator",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -330,12 +496,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra scripts for malware analysis",
+            "homepage": null,
             "id": 207281625,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-11T06:31:39Z",
+            "open_issues": 0,
             "owner": "AllsafeCyberSecurity",
             "repo": "ghidra_scripts",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "ghidra",
+              "python",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -346,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 230211256,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-02-26T11:54:26Z",
+            "open_issues": 0,
             "owner": "alephsecurity",
             "repo": "general-research-tools",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -362,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 230211256,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-02-26T11:54:26Z",
+            "open_issues": 0,
             "owner": "alephsecurity",
             "repo": "general-research-tools",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -378,12 +563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project tries to provide additional Ghidra Version Tracking Correlators suitable for patch diffing.",
+            "homepage": null,
             "id": 214256765,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-10-27T13:04:40Z",
+            "open_issues": 2,
             "owner": "threatrack",
             "repo": "ghidra-patchdiff-correlator",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -394,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 261395984,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-18T19:03:33Z",
+            "open_issues": 1,
             "owner": "Sentinel-One",
             "repo": "VTgrepGHIDRA",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -410,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280526350,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-04T17:16:51Z",
+            "open_issues": 1,
             "owner": "Dump-GUY",
             "repo": "ghidra_scripts",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -426,12 +626,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra plugin for https://analyze.intezer.com",
+            "homepage": null,
             "id": 274694914,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-10-23T13:02:18Z",
+            "open_issues": 5,
             "owner": "intezer",
             "repo": "analyze-community-ghidra-plugin",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "ghidra",
+              "ghidra-plugin"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -442,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Capa analysis importer for Ghidra.",
+            "homepage": null,
             "id": 316290840,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-02T07:34:42Z",
+            "open_issues": 1,
             "owner": "reb311ion",
             "repo": "CapaExplorer",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -458,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GhidraQuark bridges Quark Engine into Ghidra",
+            "homepage": null,
             "id": 333347876,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-03-09T02:58:46Z",
+            "open_issues": 1,
             "owner": "ev-flow",
             "repo": "ghidraquark",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -474,12 +692,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless Scripts for Ghidra's Headless Analyzer written in Python",
+            "homepage": null,
             "id": 209954843,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-09-21T10:04:29Z",
+            "open_issues": 0,
             "owner": "AllsafeCyberSecurity",
             "repo": "headless_scripts",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "ghidra",
+              "headless-analyzer",
+              "python",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -490,12 +718,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter Kernel for Ghidra's Jython",
+            "homepage": null,
             "id": 230583517,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-13T22:58:08Z",
+            "open_issues": 1,
             "owner": "AllsafeCyberSecurity",
             "repo": "ghidra-jython-kernel",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "ghidra",
+              "ghidra-scripts",
+              "jupyter",
+              "jupyter-notebook",
+              "jython",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -506,12 +746,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FindCrypt for Ghidra written in Python",
+            "homepage": null,
             "id": 263405998,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-20T08:26:23Z",
+            "open_issues": 0,
             "owner": "AllsafeCyberSecurity",
             "repo": "py-findcrypt-ghidra",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "ghidra",
+              "ghidra-scripts"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -522,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bunch of random stuff",
+            "homepage": null,
             "id": 155055583,
             "language": "C",
+            "license": null,
             "last_commit": "2020-04-11T15:45:10Z",
+            "open_issues": 0,
             "owner": "kasif-dekel",
             "repo": "random-stuff",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -538,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UNMAINTAINED: I am now developing and using https://github.com/GhidraJupyter/ghidra-jupyter-kotlin instead, PRs still welcome",
+            "homepage": null,
             "id": 222681825,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-06T12:53:08Z",
+            "open_issues": 0,
             "owner": "fmagin",
             "repo": "ipyghidra",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -554,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hybrid AI-Assisted Malware Reverse Engineering Pipeline for Ghidra.",
+            "homepage": null,
             "id": 1238160836,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-13T21:58:43Z",
+            "open_issues": 0,
             "owner": "John-A0",
             "repo": "GhidrAI",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -570,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ghidra plugin that automatically inlines printf format strings in decompiled code",
+            "homepage": null,
             "id": 1041284253,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-21T12:11:35Z",
+            "open_issues": 0,
             "owner": "kajaaz",
             "repo": "ghidra-printf-inliner",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         }
@@ -592,12 +860,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ghidra is a software reverse engineering (SRE) framework",
+            "homepage": "https://www.nsa.gov/ghidra",
             "id": 173228436,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:31:09Z",
+            "open_issues": 1921,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 73321
+            "stars": 73385,
+            "topics": [
+              "disassembler",
+              "reverse-engineering",
+              "software-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -608,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "INFILTRATE 2019 Demo Materials",
+            "homepage": null,
             "id": 181558951,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-03-17T02:37:51Z",
+            "open_issues": 5,
             "owner": "0xAlexei",
             "repo": "INFILTRATE2019",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -624,12 +906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The slides from my Saintcon 2019 talk.",
+            "homepage": null,
             "id": 216861055,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-02-09T21:57:31Z",
+            "open_issues": 0,
             "owner": "kc0bfv",
             "repo": "Saintcon2019GhidraTalk",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         }
@@ -646,12 +933,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep ghidra decompiler and sleigh disassembler integration for rizin",
+            "homepage": null,
             "id": 196547485,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-17T11:16:11Z",
+            "open_issues": 61,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 973
+            "stars": 973,
+            "topics": [
+              "decompiler",
+              "disassembler",
+              "ghidra",
+              "hacktoberfest",
+              "reverse-engineering",
+              "rizin",
+              "sleigh"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -662,12 +962,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 206115839,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-01T20:38:05Z",
+            "open_issues": 6,
             "owner": "Cisco-Talos",
             "repo": "Ghidraaas",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "ghidra",
+              "ghidra-plugins",
+              "ida"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         }
@@ -676,15 +985,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:18.646Z",
+    "last_updated": "2026-08-29T04:31:42.542Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Ghidra materials",
+      "homepage": null,
       "id": 228118871,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-18T04:57:29Z",
+      "open_issues": 3,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1428
+      "stars": 1428,
+      "topics": [
+        "awesome-list",
+        "ghidra"
+      ]
     },
     "original_repository_sha": "9265b2f730a10f6261945ac22cb295c8f6038f87",
     "enhanced_repository": "enhansome/enhansome-ghidra",
