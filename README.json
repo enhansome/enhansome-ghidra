@@ -49,7 +49,7 @@
             "open_issues": 60,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1165,
+            "stars": 1166,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:31:09Z",
-            "open_issues": 1921,
+            "open_issues": 1922,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 73581,
+            "stars": 73782,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 61,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "decompiler",
               "disassembler",
@@ -971,7 +971,7 @@
             "open_issues": 6,
             "owner": "Cisco-Talos",
             "repo": "Ghidraaas",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "ghidra",
               "ghidra-plugins",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:40:22.053Z",
+    "last_updated": "2026-08-30T18:02:32.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
