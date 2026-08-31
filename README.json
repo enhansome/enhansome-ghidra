@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2379,
+            "stars": 2380,
             "topics": [
               "binaryninja",
               "debugger",
@@ -46,7 +46,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:56:56Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
             "stars": 1724,
@@ -349,7 +349,7 @@
             "open_issues": 3,
             "owner": "0xdea",
             "repo": "ghidra-scripts",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "ghidra",
               "ghidra-scripts",
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T13:31:09Z",
-            "open_issues": 1922,
+            "last_commit": "2026-08-31T09:57:06Z",
+            "open_issues": 1923,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 73782,
+            "stars": 74153,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 61,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 974,
+            "stars": 976,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:32.452Z",
+    "last_updated": "2026-08-31T19:57:46.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 3,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1428,
+      "stars": 1429,
       "topics": [
         "awesome-list",
         "ghidra"
