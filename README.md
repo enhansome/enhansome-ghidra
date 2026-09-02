@@ -1,16 +1,16 @@
 # Awesome Ghidra with stars
 
-[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,213 | 🐛 1,920 | 🌐 Java | 📅 2026-09-01
+[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,258 | 🐛 1,924 | 🌐 Java | 📅 2026-09-02
 
-> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,213 | 🐛 1,920 | 🌐 Java | 📅 2026-09-01 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
+> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,258 | 🐛 1,924 | 🌐 Java | 📅 2026-09-02 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 ## Ghidra Scripts/Plugins/Extension
 
 * [ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,382 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
 
-* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,725 | 🐛 61 | 🌐 C++ | 📅 2026-08-27 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
+* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,726 | 🐛 62 | 🌐 C++ | 📅 2026-08-27 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
 
-* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,167 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
+* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,168 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
 
 * [pwndra](https://github.com/0xb0bb/pwndra) ⭐ 706 | 🐛 3 | 🌐 Python | 📅 2024-09-10 - A collection of pwn/CTF related utilities for Ghidra
 
@@ -20,7 +20,7 @@
 
 * [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) ⭐ 419 | 🐛 1 | 🌐 Objective-C | 📅 2026-05-03 - A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA
 
-* [efiSeek for Ghidra](https://github.com/DSecurity/efiSeek) ⭐ 405 | 🐛 12 | 🌐 Java | 📅 2024-06-02 - The analyzer automates the process of researching EFI files.
+* [efiSeek for Ghidra](https://github.com/DSecurity/efiSeek) ⭐ 406 | 🐛 12 | 🌐 Java | 📅 2024-06-02 - The analyzer automates the process of researching EFI files.
 
 * [ghidra\_bridge](https://github.com/justfoxing/ghidra_bridge) ⭐ 362 | 🐛 13 | 🌐 Python | 📅 2023-01-30 - Python 3 bridge to Ghidra's Python scripting
 
@@ -80,7 +80,7 @@
 
 ## Materials
 
-* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 74,213 | 🐛 1,920 | 🌐 Java | 📅 2026-09-01 - Official material by National Security Agency
+* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 74,258 | 🐛 1,924 | 🌐 Java | 📅 2026-09-02 - Official material by National Security Agency
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) ⭐ 340 | 🐛 5 | 🌐 Java | 📅 2023-03-17 - INFILTRATE 2019 Demo Materials
 
@@ -111,4 +111,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
