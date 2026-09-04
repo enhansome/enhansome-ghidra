@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1168,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -94,7 +94,7 @@
             "open_issues": 3,
             "owner": "0xb0bb",
             "repo": "pwndra",
-            "stars": 706,
+            "stars": 707,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 419,
+            "stars": 417,
             "topics": [
               "analysis",
               "binaries",
@@ -314,6 +314,32 @@
         },
         {
           "node_type": "item",
+          "title": "ghidra scripts by raptor/0xdea",
+          "description": "A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.",
+            "homepage": "https://ghidra-sre.org",
+            "id": 327846631,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2026-08-02T21:43:15Z",
+            "open_issues": 3,
+            "owner": "0xdea",
+            "repo": "ghidra-scripts",
+            "stars": 304,
+            "topics": [
+              "ghidra",
+              "ghidra-scripts",
+              "reverse-engineering",
+              "vulnerability-research"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:18.646Z"
+        },
+        {
+          "node_type": "item",
           "title": "ghidra-data",
           "description": "Supporting Data Archives for Ghidra",
           "children": [],
@@ -330,32 +356,6 @@
             "repo": "ghidra-data",
             "stars": 303,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:18.646Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ghidra scripts by raptor/0xdea",
-          "description": "A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of my Ghidra scripts to facilitate reverse engineering and vulnerability research.",
-            "homepage": "https://ghidra-sre.org",
-            "id": 327846631,
-            "language": "Java",
-            "license": "MIT",
-            "last_commit": "2026-08-02T21:43:15Z",
-            "open_issues": 3,
-            "owner": "0xdea",
-            "repo": "ghidra-scripts",
-            "stars": 303,
-            "topics": [
-              "ghidra",
-              "ghidra-scripts",
-              "reverse-engineering",
-              "vulnerability-research"
-            ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
         },
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T14:52:23Z",
-            "open_issues": 1932,
+            "open_issues": 1933,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 74311,
+            "stars": 74369,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:48:13.480Z",
+    "last_updated": "2026-09-04T17:33:31.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 3,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1429,
+      "stars": 1430,
       "topics": [
         "awesome-list",
         "ghidra"
