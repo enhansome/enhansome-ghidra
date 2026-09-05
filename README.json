@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "threatrack",
             "repo": "ghidra-fidb-repo",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T14:52:23Z",
-            "open_issues": 1933,
+            "open_issues": 1939,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 74369,
+            "stars": 74411,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 61,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:33:31.709Z",
+    "last_updated": "2026-09-05T16:44:55.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
