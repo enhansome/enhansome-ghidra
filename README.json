@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "evilpan",
             "repo": "jni_helper",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "apk",
               "binaryninja",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-02T14:52:23Z",
-            "open_issues": 1939,
+            "open_issues": 1944,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 74411,
+            "stars": 74475,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:44:55.278Z",
+    "last_updated": "2026-09-06T16:55:19.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
