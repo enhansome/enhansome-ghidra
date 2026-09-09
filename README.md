@@ -1,8 +1,8 @@
 # Awesome Ghidra with stars
 
-[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,612 | 🐛 1,944 | 🌐 Java | 📅 2026-09-08
+[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,680 | 🐛 1,945 | 🌐 Java | 📅 2026-09-08
 
-> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,612 | 🐛 1,944 | 🌐 Java | 📅 2026-09-08 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
+> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 74,680 | 🐛 1,945 | 🌐 Java | 📅 2026-09-08 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 ## Ghidra Scripts/Plugins/Extension
 
@@ -10,7 +10,7 @@
 
 * [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,726 | 🐛 62 | 🌐 C++ | 📅 2026-08-27 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
 
-* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,167 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
+* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,166 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
 
 * [pwndra](https://github.com/0xb0bb/pwndra) ⭐ 707 | 🐛 3 | 🌐 Python | 📅 2024-09-10 - A collection of pwn/CTF related utilities for Ghidra
 
@@ -30,9 +30,9 @@
 
 * [Daenerys](https://github.com/daenerys-sre/source) ⭐ 308 | 🐛 0 | 🌐 Python | 📅 2019-04-01 - A framework for interoperability between IDA and Ghidra
 
-* [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) ⭐ 304 | 🐛 3 | 🌐 Java | 📅 2026-08-02 - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
-
 * [ghidra-data](https://github.com/0x6d696368/ghidra-data) ⭐ 303 | 🐛 0 | 📅 2020-05-30 - Supporting Data Archives for Ghidra
+
+* [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) ⭐ 303 | 🐛 3 | 🌐 Java | 📅 2026-08-02 - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
 
 * [ghidra-fidb-repo](https://github.com/threatrack/ghidra-fidb-repo) ⭐ 203 | 🐛 1 | 📅 2020-05-30 - Ghidra Function ID dataset repository
 
@@ -80,7 +80,7 @@
 
 ## Materials
 
-* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 74,612 | 🐛 1,944 | 🌐 Java | 📅 2026-09-08 - Official material by National Security Agency
+* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 74,680 | 🐛 1,945 | 🌐 Java | 📅 2026-09-08 - Official material by National Security Agency
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) ⭐ 340 | 🐛 5 | 🌐 Java | 📅 2023-03-17 - INFILTRATE 2019 Demo Materials
 
@@ -111,4 +111,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
