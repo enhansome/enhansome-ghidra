@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1166,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T16:21:54Z",
-            "open_issues": 1945,
+            "open_issues": 1947,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 74680,
+            "stars": 74761,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:45:59.808Z",
+    "last_updated": "2026-09-10T17:38:57.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
