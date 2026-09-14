@@ -779,7 +779,7 @@
             "open_issues": 0,
             "owner": "kasif-dekel",
             "repo": "random-stuff",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -861,15 +861,15 @@
           "repo_info": {
             "archived": false,
             "description": "Ghidra is a software reverse engineering (SRE) framework",
-            "homepage": "https://www.nsa.gov/ghidra",
+            "homepage": null,
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T15:14:34Z",
-            "open_issues": 1947,
+            "last_commit": "2026-09-14T15:51:56Z",
+            "open_issues": 1960,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 74901,
+            "stars": 75774,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:22:43.787Z",
+    "last_updated": "2026-09-14T19:15:32.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
