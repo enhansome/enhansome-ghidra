@@ -49,7 +49,7 @@
             "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1169,
+            "stars": 1170,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -261,7 +261,7 @@
             "open_issues": 8,
             "owner": "RolfRolles",
             "repo": "GhidraPAL",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T10:01:09Z",
-            "open_issues": 1959,
+            "open_issues": 1961,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 78850,
+            "stars": 79007,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:38:19.698Z",
+    "last_updated": "2026-09-19T17:11:37.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1431,
+      "stars": 1432,
       "topics": [
         "awesome-list",
         "ghidra"
