@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "binaryninja",
               "debugger",
@@ -49,7 +49,7 @@
             "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1732,
+            "stars": 1734,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1171,
+            "stars": 1172,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -869,7 +869,7 @@
             "open_issues": 1966,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 79288,
+            "stars": 79394,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:18:36.444Z",
+    "last_updated": "2026-09-22T18:02:36.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1432,
+      "stars": 1434,
       "topics": [
         "awesome-list",
         "ghidra"
