@@ -49,7 +49,7 @@
             "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1735,
+            "stars": 1737,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T09:27:37Z",
-            "open_issues": 1955,
+            "open_issues": 1960,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 79651,
+            "stars": 79717,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:29:41.000Z",
+    "last_updated": "2026-09-26T17:43:20.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
