@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2390,
+            "stars": 2391,
             "topics": [
               "binaryninja",
               "debugger",
@@ -49,7 +49,7 @@
             "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1737,
+            "stars": 1738,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "threatrack",
             "repo": "ghidra-fidb-repo",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T09:27:37Z",
-            "open_issues": 1960,
+            "open_issues": 1963,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 79717,
+            "stars": 79776,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:43:20.060Z",
+    "last_updated": "2026-09-27T18:16:56.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
