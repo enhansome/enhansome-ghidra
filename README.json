@@ -94,7 +94,7 @@
             "open_issues": 3,
             "owner": "0xb0bb",
             "repo": "pwndra",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T15:34:46Z",
-            "open_issues": 1965,
+            "last_commit": "2026-09-30T09:03:44Z",
+            "open_issues": 1966,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 79932,
+            "stars": 80010,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:19:09.741Z",
+    "last_updated": "2026-09-30T19:07:29.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
