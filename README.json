@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "analysis",
               "binaries",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T09:03:44Z",
-            "open_issues": 1967,
+            "open_issues": 1973,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 80193,
+            "stars": 80325,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:27:15.854Z",
+    "last_updated": "2026-10-02T19:10:42.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
