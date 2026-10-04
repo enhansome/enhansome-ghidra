@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1173,
+            "stars": 1174,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "kc0bfv",
             "repo": "pcode-emulator",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T09:03:44Z",
-            "open_issues": 1982,
+            "open_issues": 1984,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 80425,
+            "stars": 80541,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:53:04.438Z",
+    "last_updated": "2026-10-04T18:05:30.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
