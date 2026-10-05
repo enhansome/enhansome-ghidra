@@ -210,7 +210,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -236,7 +236,7 @@
             "open_issues": 13,
             "owner": "justfoxing",
             "repo": "ghidra_bridge",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "ghidra",
               "python3",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "0x6d696368",
             "repo": "ghidra-data",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T09:03:44Z",
-            "open_issues": 1984,
+            "last_commit": "2026-10-05T13:19:28Z",
+            "open_issues": 1983,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 80541,
+            "stars": 80793,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:05:30.891Z",
+    "last_updated": "2026-10-05T21:28:35.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
