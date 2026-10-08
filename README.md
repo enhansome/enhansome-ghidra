@@ -1,14 +1,14 @@
 # Awesome Ghidra with stars
 
-[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 81,364 | 🐛 1,982 | 🌐 Java | 📅 2026-10-07
+[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 81,704 | 🐛 1,983 | 🌐 Java | 📅 2026-10-08
 
-> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 81,364 | 🐛 1,982 | 🌐 Java | 📅 2026-10-07 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
+> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 81,704 | 🐛 1,983 | 🌐 Java | 📅 2026-10-08 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 ## Ghidra Scripts/Plugins/Extension
 
-* [ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,394 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
+* [ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,395 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
 
-* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,737 | 🐛 61 | 🌐 C++ | 📅 2026-09-16 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
+* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,738 | 🐛 61 | 🌐 C++ | 📅 2026-09-16 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
 
 * [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,175 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
 
@@ -30,7 +30,7 @@
 
 * [Daenerys](https://github.com/daenerys-sre/source) ⭐ 308 | 🐛 0 | 🌐 Python | 📅 2019-04-01 - A framework for interoperability between IDA and Ghidra
 
-* [ghidra-data](https://github.com/0x6d696368/ghidra-data) ⭐ 305 | 🐛 0 | 📅 2020-05-30 - Supporting Data Archives for Ghidra
+* [ghidra-data](https://github.com/0x6d696368/ghidra-data) ⭐ 306 | 🐛 0 | 📅 2020-05-30 - Supporting Data Archives for Ghidra
 
 * [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) ⭐ 303 | 🐛 3 | 🌐 Java | 📅 2026-08-02 - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
 
@@ -42,7 +42,7 @@
 
 * [Ghidra-evm](https://github.com/adelapie/ghidra-evm) ⭐ 149 | 🐛 3 | 🌐 Python | 📅 2021-11-22 - Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.
 
-* [Kotlin Jupyter Kernel](https://github.com/GhidraJupyter/ghidra-jupyter-kotlin) ⭐ 128 | 🐛 6 | 🌐 Java | 📅 2026-06-15 - Embeds the [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter) ⭐ 1,232 | 🐛 95 | 🌐 Kotlin | 📅 2026-07-23 into the CodeBrowser or other tools, for a full-fledged Kotlin REPL or Jupyter Notebook alongside a GUI session, including `current*` variables, autocompletions based on static type inference and more.
+* [Kotlin Jupyter Kernel](https://github.com/GhidraJupyter/ghidra-jupyter-kotlin) ⭐ 128 | 🐛 6 | 🌐 Java | 📅 2026-06-15 - Embeds the [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter) ⭐ 1,231 | 🐛 95 | 🌐 Kotlin | 📅 2026-07-23 into the CodeBrowser or other tools, for a full-fledged Kotlin REPL or Jupyter Notebook alongside a GUI session, including `current*` variables, autocompletions based on static type inference and more.
 
 * [pcode-emulator](https://github.com/kc0bfv/pcode-emulator) ⭐ 115 | 🐛 0 | 🌐 Python | 📅 2021-02-07 - A PCode Emulator for Ghidra.
 
@@ -80,7 +80,7 @@
 
 ## Materials
 
-* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 81,364 | 🐛 1,982 | 🌐 Java | 📅 2026-10-07 - Official material by National Security Agency
+* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 81,704 | 🐛 1,983 | 🌐 Java | 📅 2026-10-08 - Official material by National Security Agency
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) ⭐ 340 | 🐛 5 | 🌐 Java | 📅 2023-03-17 - INFILTRATE 2019 Demo Materials
 
@@ -111,4 +111,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
