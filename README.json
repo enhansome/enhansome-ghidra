@@ -49,7 +49,7 @@
             "open_issues": 61,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1738,
+            "stars": 1739,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -94,7 +94,7 @@
             "open_issues": 3,
             "owner": "0xb0bb",
             "repo": "pwndra",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 547,
+            "stars": 549,
             "topics": [
               "cryptoanalysis",
               "cryptography",
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "analysis",
               "binaries",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T10:30:16Z",
-            "open_issues": 1992,
+            "open_issues": 2021,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 82618,
+            "stars": 83267,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -938,11 +938,11 @@
             "id": 196547485,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-28T05:58:13Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-11T18:19:29Z",
+            "open_issues": 65,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:28:13.681Z",
+    "last_updated": "2026-10-11T18:47:15.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 5,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1436,
+      "stars": 1437,
       "topics": [
         "awesome-list",
         "ghidra"
