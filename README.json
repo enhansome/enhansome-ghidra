@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2397,
+            "stars": 2399,
             "topics": [
               "binaryninja",
               "debugger",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T17:14:10Z",
-            "open_issues": 2069,
+            "open_issues": 2094,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 86189,
+            "stars": 87183,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:11:54.110Z",
+    "last_updated": "2026-10-14T18:30:09.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 5,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1440,
+      "stars": 1441,
       "topics": [
         "awesome-list",
         "ghidra"
