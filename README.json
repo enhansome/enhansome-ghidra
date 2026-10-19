@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2401,
+            "stars": 2403,
             "topics": [
               "binaryninja",
               "debugger",
@@ -261,7 +261,7 @@
             "open_issues": 8,
             "owner": "RolfRolles",
             "repo": "GhidraPAL",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -505,7 +505,7 @@
             "open_issues": 0,
             "owner": "AllsafeCyberSecurity",
             "repo": "ghidra_scripts",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "ghidra",
               "python",
@@ -821,7 +821,7 @@
             "open_issues": 0,
             "owner": "John-A0",
             "repo": "GhidrAI",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:52:06Z",
-            "open_issues": 2106,
+            "last_commit": "2026-10-19T16:16:41Z",
+            "open_issues": 2132,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 90703,
+            "stars": 91487,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 64,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 996,
+            "stars": 997,
             "topics": [
               "decompiler",
               "disassembler",
@@ -971,7 +971,7 @@
             "open_issues": 6,
             "owner": "Cisco-Talos",
             "repo": "Ghidraaas",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "ghidra",
               "ghidra-plugins",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:15:43.608Z",
+    "last_updated": "2026-10-19T19:47:44.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1443,
+      "stars": 1445,
       "topics": [
         "awesome-list",
         "ghidra"
