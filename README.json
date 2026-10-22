@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T12:16:20Z",
-            "open_issues": 2139,
+            "last_commit": "2026-10-22T13:16:26Z",
+            "open_issues": 2137,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 92544,
+            "stars": 93042,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -938,8 +938,8 @@
             "id": 196547485,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-21T15:49:01Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-22T15:17:04Z",
+            "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
             "stars": 997,
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:32:58.541Z",
+    "last_updated": "2026-10-22T18:28:18.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1445,
+      "stars": 1446,
       "topics": [
         "awesome-list",
         "ghidra"
