@@ -1,26 +1,26 @@
 # Awesome Ghidra with stars
 
-[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 94,647 | 🐛 2,163 | 🌐 Java | 📅 2026-10-26
+[<img src="./icon-ghidra.png" align="right" width="300">](https://github.com/NationalSecurityAgency/ghidra) ⭐ 95,010 | 🐛 2,155 | 🌐 Java | 📅 2026-10-27
 
-> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 94,647 | 🐛 2,163 | 🌐 Java | 📅 2026-10-26 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
+> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 95,010 | 🐛 2,155 | 🌐 Java | 📅 2026-10-27 is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 ## Ghidra Scripts/Plugins/Extension
 
-* [ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,403 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
+* [ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,405 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
 
 * [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) ⭐ 1,739 | 🐛 63 | 🌐 C++ | 📅 2026-10-20 - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
 
-* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,177 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
+* [ghidra\_scripts by ghidraninja](https://github.com/ghidraninja/ghidra_scripts) ⭐ 1,179 | 🐛 13 | 🌐 YARA | 📅 2020-10-07 - Scripts for the Ghidra software reverse engineering suite.
 
 * [pwndra](https://github.com/0xb0bb/pwndra) ⭐ 710 | 🐛 3 | 🌐 Python | 📅 2024-09-10 - A collection of pwn/CTF related utilities for Ghidra
 
 * [JNI Helper](https://github.com/evilpan/jni_helper) ⭐ 676 | 🐛 2 | 🌐 C++ | 📅 2025-02-24 - Find JNI function signatures in APK and apply to Ghidra.
 
-* [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) ⭐ 551 | 🐛 0 | 🌐 C++ | 📅 2023-06-25 - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database
+* [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) ⭐ 552 | 🐛 0 | 🌐 C++ | 📅 2023-06-25 - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database
 
-* [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) ⭐ 423 | 🐛 1 | 🌐 Objective-C | 📅 2026-05-03 - A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA
+* [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) ⭐ 424 | 🐛 1 | 🌐 Objective-C | 📅 2026-05-03 - A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA
 
-* [efiSeek for Ghidra](https://github.com/DSecurity/efiSeek) ⭐ 409 | 🐛 12 | 🌐 Java | 📅 2024-06-02 - The analyzer automates the process of researching EFI files.
+* [efiSeek for Ghidra](https://github.com/DSecurity/efiSeek) ⭐ 410 | 🐛 12 | 🌐 Java | 📅 2024-06-02 - The analyzer automates the process of researching EFI files.
 
 * [ghidra\_bridge](https://github.com/justfoxing/ghidra_bridge) ⭐ 364 | 🐛 13 | 🌐 Python | 📅 2023-01-30 - Python 3 bridge to Ghidra's Python scripting
 
@@ -28,7 +28,7 @@
 
 * [gotools](https://github.com/felberj/gotools) ⭐ 344 | 🐛 7 | 🌐 Java | 📅 2021-04-12 - Plugin for Ghidra to assist reversing Golang binaries
 
-* [Daenerys](https://github.com/daenerys-sre/source) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2019-04-01 - A framework for interoperability between IDA and Ghidra
+* [Daenerys](https://github.com/daenerys-sre/source) ⭐ 308 | 🐛 0 | 🌐 Python | 📅 2019-04-01 - A framework for interoperability between IDA and Ghidra
 
 * [ghidra-data](https://github.com/0x6d696368/ghidra-data) ⭐ 306 | 🐛 0 | 📅 2020-05-30 - Supporting Data Archives for Ghidra
 
@@ -66,21 +66,21 @@
 
 * [headless\_scripts](https://github.com/AllsafeCyberSecurity/headless_scripts) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2019-09-21 - Headless Scripts for Ghidra's Headless Analyzer written in Python
 
-* [ghidra-jython-kernel](https://github.com/AllsafeCyberSecurity/ghidra-jython-kernel) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2022-04-13 - Jupyter Kernel for Ghidra's Jython
+* [py-findcrypt-ghidra](https://github.com/AllsafeCyberSecurity/py-findcrypt-ghidra) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2020-05-20 - FindCrypt for Ghidra written in Python. All constants are referenced from [findcrypt](https://github.com/you0708/ida/tree/master/idapython_tools/findcrypt) ⭐ 275 | 🐛 1 | 🌐 HTML | 📅 2026-01-14.
 
-* [py-findcrypt-ghidra](https://github.com/AllsafeCyberSecurity/py-findcrypt-ghidra) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2020-05-20 - FindCrypt for Ghidra written in Python. All constants are referenced from [findcrypt](https://github.com/you0708/ida/tree/master/idapython_tools/findcrypt) ⭐ 275 | 🐛 1 | 🌐 HTML | 📅 2026-01-14.
+* [ghidra-jython-kernel](https://github.com/AllsafeCyberSecurity/ghidra-jython-kernel) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2022-04-13 - Jupyter Kernel for Ghidra's Jython
 
 * [VTgrepGHIDRA](https://github.com/kasif-dekel/random-stuff/blob/master/VTgrepGHIDRA.JAVA) ⭐ 24 | 🐛 0 | 🌐 C | 📅 2026-09-11 - vtgrep plugin for Ghidra
 
 * [ipyghidra](https://github.com/fmagin/ipyghidra) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2020-05-06 - IPython Extension that extends `ghidra_bridge` for an improved interactive experience in the IPython console
 
-* [GhidrAI](https://github.com/John-A0/GhidrAI) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-13 - A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.
+* [GhidrAI](https://github.com/John-A0/GhidrAI) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-13 - A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.
 
 * [ghidra-printf-inliner](https://github.com/kajaaz/ghidra-printf-inliner) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2025-08-21 - A Ghidra plugin that automatically inlines printf/println format strings in decompiled code, mainly optimized for Go binaries.
 
 ## Materials
 
-* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 94,647 | 🐛 2,163 | 🌐 Java | 📅 2026-10-26 - Official material by National Security Agency
+* [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) ⭐ 95,010 | 🐛 2,155 | 🌐 Java | 📅 2026-10-27 - Official material by National Security Agency
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) ⭐ 339 | 🐛 5 | 🌐 Java | 📅 2023-03-17 - INFILTRATE 2019 Demo Materials
 
@@ -103,7 +103,7 @@
 
 ## Others
 
-* [r2ghidra-dec](https://github.com/radareorg/r2ghidra-dec) ⭐ 997 | 🐛 63 | 🌐 C++ | 📅 2026-10-22 - Deep ghidra decompiler integration for radare2
+* [r2ghidra-dec](https://github.com/radareorg/r2ghidra-dec) ⭐ 999 | 🐛 63 | 🌐 C++ | 📅 2026-10-22 - Deep ghidra decompiler integration for radare2
 
 * [Ghidraaas](https://github.com/Cisco-Talos/Ghidraaas) ⭐ 230 | 🐛 6 | 🌐 Python | 📅 2023-05-01 - simple web server that exposes Ghidra analysis through REST APIs
 
@@ -111,4 +111,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

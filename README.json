@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2403,
+            "stars": 2405,
             "topics": [
               "binaryninja",
               "debugger",
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1177,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "cryptoanalysis",
               "cryptography",
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "analysis",
               "binaries",
@@ -210,7 +210,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -307,7 +307,7 @@
             "open_issues": 0,
             "owner": "binary-wizards",
             "repo": "daenerys-sre",
-            "stars": 307,
+            "stars": 308,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -713,6 +713,30 @@
         },
         {
           "node_type": "item",
+          "title": "py-findcrypt-ghidra",
+          "description": "FindCrypt for Ghidra written in Python. All constants are referenced from findcrypt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FindCrypt for Ghidra written in Python",
+            "homepage": null,
+            "id": 263405998,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2020-05-20T08:26:23Z",
+            "open_issues": 0,
+            "owner": "AllsafeCyberSecurity",
+            "repo": "py-findcrypt-ghidra",
+            "stars": 28,
+            "topics": [
+              "ghidra",
+              "ghidra-scripts"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:18.646Z"
+        },
+        {
+          "node_type": "item",
           "title": "ghidra-jython-kernel",
           "description": "Jupyter Kernel for Ghidra's Jython",
           "children": [],
@@ -735,30 +759,6 @@
               "jupyter-notebook",
               "jython",
               "reverse-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:18.646Z"
-        },
-        {
-          "node_type": "item",
-          "title": "py-findcrypt-ghidra",
-          "description": "FindCrypt for Ghidra written in Python. All constants are referenced from findcrypt.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FindCrypt for Ghidra written in Python",
-            "homepage": null,
-            "id": 263405998,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2020-05-20T08:26:23Z",
-            "open_issues": 0,
-            "owner": "AllsafeCyberSecurity",
-            "repo": "py-findcrypt-ghidra",
-            "stars": 27,
-            "topics": [
-              "ghidra",
-              "ghidra-scripts"
             ]
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -821,7 +821,7 @@
             "open_issues": 0,
             "owner": "John-A0",
             "repo": "GhidrAI",
-            "stars": 4,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T09:09:58Z",
-            "open_issues": 2163,
+            "last_commit": "2026-10-27T09:14:00Z",
+            "open_issues": 2155,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 94647,
+            "stars": 95010,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 997,
+            "stars": 999,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:51:18.684Z",
+    "last_updated": "2026-10-27T19:22:30.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
