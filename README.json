@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:27:03Z",
-            "open_issues": 2184,
+            "open_issues": 2191,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 98347,
+            "stars": 98540,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:23:25.325Z",
+    "last_updated": "2026-11-07T18:40:23.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
