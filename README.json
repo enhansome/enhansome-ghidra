@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2409,
+            "stars": 2410,
             "topics": [
               "binaryninja",
               "debugger",
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1182,
+            "stars": 1183,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "evilpan",
             "repo": "jni_helper",
-            "stars": 674,
+            "stars": 673,
             "topics": [
               "apk",
               "binaryninja",
@@ -261,7 +261,7 @@
             "open_issues": 8,
             "owner": "RolfRolles",
             "repo": "GhidraPAL",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T11:31:34Z",
-            "open_issues": 2198,
+            "open_issues": 2210,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 99333,
+            "stars": 99590,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 1007,
+            "stars": 1008,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:45:53.911Z",
+    "last_updated": "2026-11-11T21:16:00.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1458,
+      "stars": 1459,
       "topics": [
         "awesome-list",
         "ghidra"
