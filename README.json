@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2410,
+            "stars": 2411,
             "topics": [
               "binaryninja",
               "debugger",
@@ -123,7 +123,7 @@
             "open_issues": 2,
             "owner": "evilpan",
             "repo": "jni_helper",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "apk",
               "binaryninja",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "threatrack",
             "repo": "ghidra-fidb-repo",
-            "stars": 205,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T11:31:34Z",
-            "open_issues": 2210,
+            "open_issues": 2215,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 99590,
+            "stars": 99795,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 1008,
+            "stars": 1010,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:16:00.766Z",
+    "last_updated": "2026-11-12T21:24:57.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
