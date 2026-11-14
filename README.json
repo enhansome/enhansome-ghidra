@@ -49,7 +49,7 @@
             "open_issues": 63,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1743,
+            "stars": 1744,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1183,
+            "stars": 1182,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -396,7 +396,7 @@
             "open_issues": 0,
             "owner": "0x6d696368",
             "repo": "ghidra_scripts",
-            "stars": 162,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T11:31:34Z",
-            "open_issues": 2220,
+            "open_issues": 2223,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 99934,
+            "stars": 100049,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -894,7 +894,7 @@
             "open_issues": 5,
             "owner": "0xAlexei",
             "repo": "INFILTRATE2019",
-            "stars": 339,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 1009,
+            "stars": 1012,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:51:00.046Z",
+    "last_updated": "2026-11-14T19:02:42.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1460,
+      "stars": 1461,
       "topics": [
         "awesome-list",
         "ghidra"
