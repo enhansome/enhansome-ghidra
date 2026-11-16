@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2411,
+            "stars": 2412,
             "topics": [
               "binaryninja",
               "debugger",
@@ -49,7 +49,7 @@
             "open_issues": 63,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -73,7 +73,7 @@
             "open_issues": 13,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1183,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -148,7 +148,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2023-06-25T03:37:00Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
             "stars": 552,
@@ -345,7 +345,7 @@
             "id": 327846631,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-20T09:13:36Z",
+            "last_commit": "2026-11-16T09:38:26Z",
             "open_issues": 3,
             "owner": "0xdea",
             "repo": "ghidra-scripts",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T11:31:34Z",
-            "open_issues": 2232,
+            "open_issues": 2240,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 100179,
+            "stars": 100344,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:41:48.300Z",
+    "last_updated": "2026-11-16T23:19:27.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
