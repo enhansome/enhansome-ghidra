@@ -49,7 +49,7 @@
             "open_issues": 63,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1747,
+            "stars": 1745,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -151,7 +151,7 @@
             "open_issues": 1,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "cryptoanalysis",
               "cryptography",
@@ -236,7 +236,7 @@
             "open_issues": 13,
             "owner": "justfoxing",
             "repo": "ghidra_bridge",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "ghidra",
               "python3",
@@ -282,7 +282,7 @@
             "open_issues": 7,
             "owner": "felberj",
             "repo": "gotools",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "ghidra",
               "golang",
@@ -417,7 +417,7 @@
             "open_issues": 1,
             "owner": "AllsafeCyberSecurity",
             "repo": "LazyGhidra",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "ghidra",
               "python",
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:14:15Z",
-            "open_issues": 2223,
+            "last_commit": "2026-11-19T10:27:38Z",
+            "open_issues": 2208,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 100576,
+            "stars": 100678,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:49:26.708Z",
+    "last_updated": "2026-11-19T22:05:37.778Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1463,
+      "stars": 1464,
       "topics": [
         "awesome-list",
         "ghidra"
