@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2413,
+            "stars": 2415,
             "topics": [
               "binaryninja",
               "debugger",
@@ -73,7 +73,7 @@
             "open_issues": 12,
             "owner": "ghidraninja",
             "repo": "ghidra_scripts",
-            "stars": 1184,
+            "stars": 1185,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -151,7 +151,7 @@
             "open_issues": 1,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "cryptoanalysis",
               "cryptography",
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T10:27:38Z",
-            "open_issues": 2208,
+            "last_commit": "2026-11-20T21:44:41Z",
+            "open_issues": 2202,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 100678,
+            "stars": 100781,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 63,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 1013,
+            "stars": 1014,
             "topics": [
               "decompiler",
               "disassembler",
@@ -971,7 +971,7 @@
             "open_issues": 6,
             "owner": "Cisco-Talos",
             "repo": "Ghidraaas",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "ghidra",
               "ghidra-plugins",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:05:37.778Z",
+    "last_updated": "2026-11-20T21:45:24.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 4,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1464,
+      "stars": 1466,
       "topics": [
         "awesome-list",
         "ghidra"
