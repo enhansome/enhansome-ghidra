@@ -49,7 +49,7 @@
             "open_issues": 63,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1747,
+            "stars": 1748,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -94,7 +94,7 @@
             "open_issues": 3,
             "owner": "0xb0bb",
             "repo": "pwndra",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "ctf",
               "ctf-tools",
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "PoomSmart",
             "repo": "IDAObjcTypes",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "analysis",
               "binaries",
@@ -293,6 +293,27 @@
         },
         {
           "node_type": "item",
+          "title": "ghidra-data",
+          "description": "Supporting Data Archives for Ghidra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Supporting Data Archives for Ghidra",
+            "homepage": "https://www.nsa.gov/ghidra",
+            "id": 181718193,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2020-05-30T13:49:28Z",
+            "open_issues": 0,
+            "owner": "0x6d696368",
+            "repo": "ghidra-data",
+            "stars": 308,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:18.646Z"
+        },
+        {
+          "node_type": "item",
           "title": "Daenerys",
           "description": "A framework for interoperability between IDA and Ghidra",
           "children": [],
@@ -308,27 +329,6 @@
             "owner": "binary-wizards",
             "repo": "daenerys-sre",
             "stars": 308,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:18.646Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ghidra-data",
-          "description": "Supporting Data Archives for Ghidra",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Supporting Data Archives for Ghidra",
-            "homepage": "https://www.nsa.gov/ghidra",
-            "id": 181718193,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2020-05-30T13:49:28Z",
-            "open_issues": 0,
-            "owner": "0x6d696368",
-            "repo": "ghidra-data",
-            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -396,7 +396,7 @@
             "open_issues": 0,
             "owner": "0x6d696368",
             "repo": "ghidra_scripts",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.646Z"
@@ -865,11 +865,11 @@
             "id": 173228436,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T14:44:35Z",
-            "open_issues": 2238,
+            "last_commit": "2026-11-25T09:30:00Z",
+            "open_issues": 2202,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 101223,
+            "stars": 101339,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -942,7 +942,7 @@
             "open_issues": 61,
             "owner": "rizinorg",
             "repo": "rz-ghidra",
-            "stars": 1015,
+            "stars": 1017,
             "topics": [
               "decompiler",
               "disassembler",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:26:39.923Z",
+    "last_updated": "2026-11-25T23:01:33.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
