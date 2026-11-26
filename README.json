@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2416,
+            "stars": 2418,
             "topics": [
               "binaryninja",
               "debugger",
@@ -49,7 +49,7 @@
             "open_issues": 63,
             "owner": "cmu-sei",
             "repo": "pharos",
-            "stars": 1748,
+            "stars": 1749,
             "topics": [
               "binary-analysis",
               "reverse-engineering"
@@ -147,8 +147,8 @@
             "id": 178957839,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2023-06-25T03:37:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T18:22:00Z",
+            "open_issues": 0,
             "owner": "d3v1l401",
             "repo": "FindCrypt-Ghidra",
             "stars": 554,
@@ -210,7 +210,7 @@
             "open_issues": 12,
             "owner": "DSecurity",
             "repo": "efiSeek",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "firmware",
               "ghidra-plugin",
@@ -282,7 +282,7 @@
             "open_issues": 7,
             "owner": "felberj",
             "repo": "gotools",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "ghidra",
               "golang",
@@ -349,7 +349,7 @@
             "open_issues": 3,
             "owner": "0xdea",
             "repo": "ghidra-scripts",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "ghidra",
               "ghidra-scripts",
@@ -866,10 +866,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T09:30:00Z",
-            "open_issues": 2202,
+            "open_issues": 2206,
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 101339,
+            "stars": 101445,
             "topics": [
               "disassembler",
               "reverse-engineering",
@@ -985,7 +985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:01:33.439Z",
+    "last_updated": "2026-11-26T22:55:37.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Ghidra materials",
@@ -997,7 +997,7 @@
       "open_issues": 5,
       "owner": "AllsafeCyberSecurity",
       "repo": "awesome-ghidra",
-      "stars": 1467,
+      "stars": 1469,
       "topics": [
         "awesome-list",
         "ghidra"
